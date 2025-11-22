@@ -5,6 +5,9 @@
 [![Python](https://img.shields.io/badge/python-3.8+-green.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE)
 
+Other platforms:
+[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/mrDevRussia/RunIT-CLI-Tool_WINDOWS)
+
 Linux port of the RunIT CLI tool. Provides the same commands and features using native Linux behaviors.
 
 ## Installation
