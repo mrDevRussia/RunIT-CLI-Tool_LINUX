@@ -1,6 +1,6 @@
 # RunIT - Linux
 
-[!Generation](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/mrDevRussia/RunIT-CLI-Tool_LINUX/releases/new)
+[Generation](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/mrDevRussia/RunIT-CLI-Tool_LINUX/releases/new)
 [![Platform](https://img.shields.io/badge/platform-Linux-lightgrey.svg)](https://github.com/mrDevRussia/RunIT-CLI-Tool_LINUX)
 [![Python](https://img.shields.io/badge/python-3.8+-green.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE)
