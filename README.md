@@ -1,4 +1,9 @@
-# RunIT-Linux
+# RunIT - Linux
+
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/runit/releases)
+[![Platform](https://img.shields.io/badge/platform-linux-lightgrey.svg)](https://github.com/mrDevRussia/RunIT-CLI-Tool_LINUX)
+[![Python](https://img.shields.io/badge/python-3.8+-green.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE)
 
 Linux port of the RunIT CLI tool. Provides the same commands and features using native Linux behaviors.
 
